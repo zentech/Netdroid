@@ -1,0 +1,13 @@
+netdroid is a fast multi-threaded network utility. It performs network scan, detecting every host ip and mac address. Port scanning, detecting well-known ports and the service running on ports. In addition, several network utilities are provided within the app for testing connectivity like: ping, and netstat for display of smartphone connections. Finally, netdroid displays all ip, network, and wifi configuration on local network.
+
+==Features==
+1- IP Scanner 
+2- Port Scanner
+3- Ip Configuration (localhost)
+4- Wifi Configuration
+5- Ping Utility
+6- Netstat Utility (local connections)
+7- IP Configuration (loca / public)
+8- Location Detection
+9- ISP detection
+

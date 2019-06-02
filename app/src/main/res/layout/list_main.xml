@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/host_label"
+        android:layout_width="0dp"
+        android:layout_weight="0.40"
+        android:layout_height="wrap_content"
+        android:text="Ip Address: "
+        android:textSize="18sp"
+        android:paddingLeft="5dp"/>
+
+    <TextView
+        android:id="@+id/host_data"
+        android:layout_width="0dp"
+        android:layout_weight="0.60"
+        android:layout_height="wrap_content"
+        android:text="255.255.255.255"
+        android:textSize="18sp"/>
+
+</LinearLayout>

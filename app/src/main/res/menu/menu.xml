@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_ping"
+        android:title="Ping"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_netstat"
+        android:title="Netstat"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/app_ratings"
+        android:title="Rate This App!"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh_white_24"
+        android:title="Refresh"
+        app:showAsAction="always"/>
+
+
+</menu>

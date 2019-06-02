@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Netdroid</string>
+    <!--test id ads-->
+    <!--<string name="app_banner_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--real adMob ad-id-->
+    <string name="app_banner_ad">ca-app-pub-6077312877853191/4465955065</string>
+
+</resources>
